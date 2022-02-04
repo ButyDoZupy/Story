@@ -1,0 +1,9 @@
+git init - zalóż gita
+git add :
+1). - dodaj wszystko
+2)tmp.txt - dodaj tmp.txt
+
+git commit -m "Nazwa commitu"
+git status: sprawdza statusu plików (czy były modyfikowane? czy doszły nowe pliki?)
+git log: Pokazuje wszystkie commity
+git diff: różnica między wersjami
